@@ -1,16 +1,19 @@
 {
   "name": "mkdir",
   "version": "1.0.0",
+  "description": "",
   "main": "mkdir.js",
+  "dependencies": {
+    "git": "^0.1.5",
+    "npm": "^7.7.5"
+  },
+    "bin" :{
+    "mymkdir" : "mkdir.js",
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "git": "^0.1.5"
-  },
-  "devDependencies": {},
-  "description": ""
+  "license": "ISC"
 }
