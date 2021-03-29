@@ -1,7 +1,6 @@
 {
-  "name": "Mkdir",
+  "name": "mkdir",
   "version": "1.0.0",
-  "description": "",
   "main": "mkdir.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "git": "^0.1.5"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
